@@ -1,0 +1,3 @@
+Precio de Bitcoin: $64222.4061
+Cantidad de Bitcoins: 34.000000
+Costo total en USD: $2183561.8074
